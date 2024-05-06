@@ -10,7 +10,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <h1>Hello Laravel</h1>
+                <h1>{{ $message1 }} {{ $message2 }}</h1>
             </div>
         </div>
     </div>
